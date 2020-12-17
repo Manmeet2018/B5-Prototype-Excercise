@@ -114,7 +114,8 @@ function Airplane(name) {
   /* 
     TASK 4
     In your own words explain the four principles for the "this" keyword below:
-    1. "this" refer to runtime binding (how the function is called) in non-strict mode.
+    1. "this" refer to runtime binding (how the function is called) in
+        non-strict mode.
         By default it points to "Window" object in a browser and "globalThis"
         object in Node.
     2. In strict mode by default the value of "this" point to undefined.
